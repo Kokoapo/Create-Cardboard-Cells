@@ -1,0 +1,8 @@
+{
+    "item.createcardboardcells.cardboard_cell_1k": "Cardboard Cell 1k",
+    "item.createcardboardcells.cardboard_cell_4k": "Cardboard Cell 4k",
+    "item.createcardboardcells.cardboard_cell_16k": "Cardboard Cell 16k",
+    "item.createcardboardcells.cardboard_cell_64k": "Cardboard Cell 64k",
+
+    "creativetab.create_cardboard_cells_tab": "Create: Cardboard Cells"
+}
