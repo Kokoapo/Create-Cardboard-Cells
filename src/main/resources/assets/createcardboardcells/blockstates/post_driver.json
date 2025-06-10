@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "createcardboardcells:block/post_driver"
+        }
+    }
+}

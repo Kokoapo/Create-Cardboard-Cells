@@ -1,6 +1,7 @@
 package net.kokoapo.createcardboardcells.item;
 
 import net.kokoapo.createcardboardcells.CreateCardboardCells;
+import net.kokoapo.createcardboardcells.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -20,6 +21,8 @@ public class ModCreativeModTabs {
                 pOutput.accept(ModItems.CARDBOARD_CELL_4K.get());
                 pOutput.accept(ModItems.CARDBOARD_CELL_16K.get());
                 pOutput.accept(ModItems.CARDBOARD_CELL_64K.get());
+
+                pOutput.accept(ModBlocks.POST_DRIVER.get());
             })
             .build());
 

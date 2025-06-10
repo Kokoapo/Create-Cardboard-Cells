@@ -4,5 +4,7 @@
     "item.createcardcells.cardboard_cell_16k": "Disco de Papelão 16k",
     "item.createcardcells.cardboard_cell_64k": "Disco de Papelão 64k",
 
+    "block.createcardboardcells.post_driver": "Driver de Discos",
+
     "creativetab.create_cardboard_cells_tab": "Create: Cardboard Cells"
 }

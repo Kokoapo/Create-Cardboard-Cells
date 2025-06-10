@@ -4,5 +4,7 @@
     "item.createcardboardcells.cardboard_cell_16k": "Cardboard Cell 16k",
     "item.createcardboardcells.cardboard_cell_64k": "Cardboard Cell 64k",
 
+    "block.createcardboardcells.post_driver": "Post Driver",
+
     "creativetab.create_cardboard_cells_tab": "Create: Cardboard Cells"
 }

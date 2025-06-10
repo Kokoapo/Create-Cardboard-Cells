@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "down": "createcardboardcells:block/post_driver_bottom",
+        "east": "createcardboardcells:block/post_driver_side",
+        "north": "createcardboardcells:block/post_driver_front",
+        "particle": "createcardboardcells:block/post_driver_side",
+        "south": "createcardboardcells:block/post_driver_side",
+        "up": "createcardboardcells:block/post_driver_top",
+        "west": "createcardboardcells:block/post_driver_side"
+    }
+}

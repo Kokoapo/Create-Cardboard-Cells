@@ -1,5 +1,6 @@
 package net.kokoapo.createcardboardcells;
 
+import net.kokoapo.createcardboardcells.block.ModBlocks;
 import net.kokoapo.createcardboardcells.item.ModCreativeModTabs;
 import net.kokoapo.createcardboardcells.item.ModItems;
 // import com.mojang.logging.LogUtils;
@@ -27,6 +28,7 @@ public class CreateCardboardCells {
 
         ModItems.register(modEventBus);
         ModCreativeModTabs.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(this);
